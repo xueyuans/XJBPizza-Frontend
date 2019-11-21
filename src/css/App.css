@@ -1,0 +1,39 @@
+.background-pure {
+  background-color: #210B0B;
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  width: 10%;
+  height: 100%;
+}
+
+.background-pure-left {
+  left: 0;
+}
+
+.background-pure-right {
+  left: 90%;
+}
+
+.background {
+  background-image: url("../images/imageonline-co-darkenimage.jpg");
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  height: 100%;
+}
+
+.navBar {
+  font-size: 30px;
+  text-align: center;
+}
+
+.slogan{
+  color: #ffffff; 
+  position: fixed;
+  left: 24%;
+  top: 22%;
+  font-size: 70px; 
+}
